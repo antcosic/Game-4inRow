@@ -1,0 +1,6 @@
+E:\Mreze\igra_spojeni_klijenti\igra_spojeni_klijenti\bin\Debug\igra_spojeni_klijenti.exe.config
+E:\Mreze\igra_spojeni_klijenti\igra_spojeni_klijenti\bin\Debug\igra_spojeni_klijenti.exe
+E:\Mreze\igra_spojeni_klijenti\igra_spojeni_klijenti\bin\Debug\igra_spojeni_klijenti.pdb
+E:\Mreze\igra_spojeni_klijenti\igra_spojeni_klijenti\obj\Debug\igra_spojeni_klijenti.csprojResolveAssemblyReference.cache
+E:\Mreze\igra_spojeni_klijenti\igra_spojeni_klijenti\obj\Debug\igra_spojeni_klijenti.exe
+E:\Mreze\igra_spojeni_klijenti\igra_spojeni_klijenti\obj\Debug\igra_spojeni_klijenti.pdb

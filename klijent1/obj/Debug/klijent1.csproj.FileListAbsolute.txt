@@ -1,0 +1,6 @@
+E:\Mreze\igra_spojeni_klijenti\klijent1\bin\Debug\klijent1.exe.config
+E:\Mreze\igra_spojeni_klijenti\klijent1\bin\Debug\klijent1.exe
+E:\Mreze\igra_spojeni_klijenti\klijent1\bin\Debug\klijent1.pdb
+E:\Mreze\igra_spojeni_klijenti\klijent1\obj\Debug\klijent1.csprojResolveAssemblyReference.cache
+E:\Mreze\igra_spojeni_klijenti\klijent1\obj\Debug\klijent1.exe
+E:\Mreze\igra_spojeni_klijenti\klijent1\obj\Debug\klijent1.pdb

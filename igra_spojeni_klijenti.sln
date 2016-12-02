@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "igra_spojeni_klijenti", "igra_spojeni_klijenti\igra_spojeni_klijenti.csproj", "{BA60C52D-B1E3-4D0E-9CFA-A1EC514F8B06}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "klijent1", "klijent1\klijent1.csproj", "{16101651-E3EB-4986-9724-6360FF340D93}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "klijent2", "klijent2\klijent2.csproj", "{CC77B0B2-2192-4B75-9530-2820BBF077DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA60C52D-B1E3-4D0E-9CFA-A1EC514F8B06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA60C52D-B1E3-4D0E-9CFA-A1EC514F8B06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA60C52D-B1E3-4D0E-9CFA-A1EC514F8B06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA60C52D-B1E3-4D0E-9CFA-A1EC514F8B06}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16101651-E3EB-4986-9724-6360FF340D93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16101651-E3EB-4986-9724-6360FF340D93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16101651-E3EB-4986-9724-6360FF340D93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16101651-E3EB-4986-9724-6360FF340D93}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC77B0B2-2192-4B75-9530-2820BBF077DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC77B0B2-2192-4B75-9530-2820BBF077DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC77B0B2-2192-4B75-9530-2820BBF077DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC77B0B2-2192-4B75-9530-2820BBF077DD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
